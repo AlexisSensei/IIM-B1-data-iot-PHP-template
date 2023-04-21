@@ -2,10 +2,10 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>To-do List</title>
+    <title>Data IOT</title>
 </head>
 <body>
-    <h1>To-do List</h1>
+    <h1>Ajoute des trucs</h1>
     <form action="actions.php" method="post">
         <input type="hidden" name="action" value="add">
         <input type="text" name="content" placeholder="Nouveau contenu">
