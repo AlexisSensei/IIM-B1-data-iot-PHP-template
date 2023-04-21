@@ -12,4 +12,4 @@ Tout usage identifé hors de l'exercice prévu en cours de DATA-IOT sera sanctio
 
 # Démarrer le projet 
 
-`php -S localhost:8888 -t public`
+`php -S localhost:8888`
