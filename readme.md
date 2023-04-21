@@ -9,3 +9,7 @@ Ce projet est construit de telle sorte à ce qu'il ne soit pas exploitable
 - Des rattrapages des modules de cours d'année en PHP et Data-IOT
 
 Tout usage identifé hors de l'exercice prévu en cours de DATA-IOT sera sanctionné par un conseil disciplinaire.
+
+# Démarrer le projet 
+
+`php -S localhost:8888 -t public`
